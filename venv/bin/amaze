@@ -1,0 +1,6 @@
+#!/Users/Stanislav/PycharmProjects/MFGame/venv/bin/python
+
+if __name__ == '__main__':
+    from amaze import main
+    main()
+
